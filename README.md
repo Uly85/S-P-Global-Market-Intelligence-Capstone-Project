@@ -1,4 +1,4 @@
-# S-P-Market-Intelligence-Capstone-Project
+# S&P Global Market Intelligence - Capstone Project
 
 ## **Research Project - Results and recommendations (Team A)**  
 
